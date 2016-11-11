@@ -1,0 +1,62 @@
+
+  actividades registradas en facebook
+
+- tablas a leer:
+  *estados
+  *news
+  *sugerencias publicidad
+
+
+objetivo => post, foto, enlace, video, estado 
+
+Editar contenido:
+
+-usuario ha cambiado la foto de su perfil.
+- usuario ha actualizado la foto de su portada.    muestra-foto
+
+Añadir contenido.
+
+-usuario añadio una foto al album "Nombre" .  muestra foto.
+-usuario ha añadido "count(n-numero-fotos)" fotos nuevas al album "nombre del album".
+-usuario agregó COUNT() fotos nuevas.
+
+compartir:
+- usuario ha compartido un enlace.          muestra enlace
+- usuario compartió la FOTO de usuario x.
+
+
+Conectar:
+-usuario envio una solicitud de amistad a . muestra usuario.
+-usuario y usuario2 son ahora amigos
+
+Etiquetar:
+-se ha etiquetado a usuario en la foto de usuario2.
+-se ha etiquetado a usuario en un estado.
+-fue etiquetado(a) en las fotos de usuaxio x.
+
+Publicar
+-usuario ha publicado una foto en tu biografia.
+
+
+comentarios:
+
+-usuario ha comentado su foto.
+-usuario ha comentado una foto.
+- usuario ha comentado esto.       muestra comentario -el comentario tiene su mismo id
+-usuario comento estado.
+-usuario ha comentado una publicacion.
+-usuario ha escrito en la biografia de usuario2
+-usuario ha comentado un enlace.
+
+likes:
+
+- a usuario le gusta una foto.
+- a usuario le gusta un enlace.
+- a usuario le gusta el video "Nombre video"  de usuario2
+- a usuario le gustó esta publicacion del diciembre de 2013
+
+
+likes comentarios:
+
+-a usuario x  y usuario2 x les gustas esto. 
+(mas de dos cuenta y dice "y count()" les gusta esto )
